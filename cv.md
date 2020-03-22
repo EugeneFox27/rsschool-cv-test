@@ -1,4 +1,3 @@
-<title>Yevhenii Kudlai | rsschool-cv</title>
 <h1 id="yevhenii_kudlai">Yevhenii Kudlai</h1>
 
 <p><strong>First name:</strong> Yevhenii</p>
